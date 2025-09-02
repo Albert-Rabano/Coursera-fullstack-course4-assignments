@@ -6,11 +6,11 @@
 }
 
 body {
-  font-family: Helvetica;
+  font-family: Impact;
 }
 
 h1 {
-  font-size: 175%;
+  font-size: 200%;
   margin-bottom: 15px;
   text-align: center;
 }
@@ -38,15 +38,15 @@ h1 {
 }
 
 .section-title.chicken {
-  background-color: #f17f7f;
+  background-color: #87cefa;
 }
 
 .section-title.beef {
-  background-color: #bb2828;
+  background-color: #f08080;
 }
 
 .section-title.sushi {
-  background-color: #d2a055;
+  background-color: #c9a0dc;
 }
 
 .section-inner p {
